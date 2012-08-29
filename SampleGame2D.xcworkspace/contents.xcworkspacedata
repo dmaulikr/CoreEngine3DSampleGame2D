@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../CoreEngine3D/ThirdParty/Box2D/Build/xcode4/Box2D.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../CoreEngine3D/CoreEngine3D.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Game/Game.xcodeproj">
+   </FileRef>
+</Workspace>

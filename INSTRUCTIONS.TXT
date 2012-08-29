@@ -1,0 +1,3 @@
+1. Copy SampleGame2D folder to the same base folder as CoreEngine3D
+2. Open SampleGame2D.xcworkspace
+3. Run the sample game :)
