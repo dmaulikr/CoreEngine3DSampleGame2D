@@ -23,6 +23,11 @@ void InitGame(Game** ppGame, OpenGLRenderer** ppRenderer, s32 width, s32 height)
 		widthPoints = 960;
 		heightPoints = 640;
 	}
+	else
+	{
+		widthPoints = 1024;
+		heightPoints = 768;
+	}
 #endif
 	
 	(*ppRenderer)->Init(width, height, widthPoints, heightPoints);
