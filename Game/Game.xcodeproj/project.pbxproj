@@ -81,7 +81,6 @@
 		DD2D567015CA6C6F00DDCD9D /* InitGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitGame.h; sourceTree = "<group>"; };
 		DD2D569A15CA6C8300DDCD9D /* CustomGame.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; path = CustomGame.cpp; sourceTree = "<group>"; };
 		DD2D569B15CA6C8300DDCD9D /* CustomGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomGame.h; sourceTree = "<group>"; };
-		DD2D569C15CA6C8300DDCD9D /* GameDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameDefines.h; sourceTree = "<group>"; };
 		DD2D569D15CA6C8300DDCD9D /* GameMessages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameMessages.h; sourceTree = "<group>"; };
 		DD2D569E15CA6C8300DDCD9D /* MyObjectFactories.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; fileEncoding = 4; path = MyObjectFactories.cpp; sourceTree = "<group>"; };
 		DD2D569F15CA6C8300DDCD9D /* MyObjectFactories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyObjectFactories.h; sourceTree = "<group>"; };
@@ -211,7 +210,6 @@
 			children = (
 				DD2D569A15CA6C8300DDCD9D /* CustomGame.cpp */,
 				DD2D569B15CA6C8300DDCD9D /* CustomGame.h */,
-				DD2D569C15CA6C8300DDCD9D /* GameDefines.h */,
 				DD2D569D15CA6C8300DDCD9D /* GameMessages.h */,
 				DD2D569E15CA6C8300DDCD9D /* MyObjectFactories.cpp */,
 				DD2D569F15CA6C8300DDCD9D /* MyObjectFactories.h */,

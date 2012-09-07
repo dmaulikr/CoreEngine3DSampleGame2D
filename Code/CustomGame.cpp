@@ -67,6 +67,7 @@ bool SampleGame2D::Init()
 	m_timeScreenTimer = 0.0f;
 	
 	GAME->Box2D_Init(false, true);
+	GAME->SetPixelsPerMeter(64.0f);
 	 
 	SetTileCullingRange(3);
 	
